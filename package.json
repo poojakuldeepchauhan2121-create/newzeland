@@ -1,7 +1,7 @@
 {
-  "name": "dubai-jobs-portal",
+  "name": "nz-jobs-portal",
   "version": "1.0.0",
-  "description": "Dubai Jobs Portal - 100,000 Job Listings | UAE",
+  "description": "NZJobs.co.nz — 100,000 Job Listings | New Zealand",
   "main": "server.js",
   "scripts": {
     "start": "node server.js",
